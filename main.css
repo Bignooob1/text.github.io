@@ -6,7 +6,7 @@
 .theme-dark,
 .theme-light {
     /*Background*/
-    --background-image: var(--custom-image-url);
+    --background-image: var(--custom-image-url);text.github.io
     --app-blur: 8px;
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
     --button-background-static: var(--highlight);
@@ -15,7 +15,7 @@
     --background-modifier-hover: rgba(20, 20, 20, 0.500);
     --box-shadow: 0 0 10px 0px black;
 
-    /* --custom-logo: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordia.png');
+    --custom-logo: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordia.png');
     --custom-logo-hover: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordiaHover.png');
 
     /*other*/
@@ -53,7 +53,7 @@
     --background-message-automod: rgba(var(--rgb-highlight), 20%);
     --background-message-automod-hover: rgba(var(--rgb-highlight), 40%);
     --channeltextarea-background: color-mix(in oklab, var(--primary-560) 100%, var(--theme-base-color, black) var(--theme-base-color-amount, 0%));
-    --text-link: var(--highlight);
+    --text-link: var(--custom);
     --text-link-low-saturation: rgba(var(--rgb-highlight), 50%);
     --text-positive: var(--online-color);
     --text-warning: var(--afk-color);
