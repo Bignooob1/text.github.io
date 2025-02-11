@@ -1107,7 +1107,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 .container_d97f89 {
     /* poll creation */
     border: 1px solid var(--highlight);
-    background-color: var( --rgb-highlight);
+    background-color: rgba(var(--rgb-highlight), 20%);
 }
 
 .container__0be77 {
@@ -1123,7 +1123,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 
 .votePercentageBar__4c520 {
     /* polls */
-    background-color: var(--background-mentioned-hover);
+    background-color: var(--highlight);
 }
 
 .answerSelectionIcon__4c520 path[fill-rule=evenodd] {
