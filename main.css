@@ -1217,7 +1217,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 }
 
 .defaultTextInputWrapper__7b848 {
-    /* poll creation responses input area */
+    /* poll creation responses input area  (controlls popup stff)*/
     background-color: rgba(35, 35, 35, 0.596);
 }
 
@@ -1228,7 +1228,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 
 .addAnswerButton_d97f89 {
     /* poll creation add response bg */
-    background-color: rgba(35, 35, 35, 0.8);
+    background-color: rgba(35, 35, 35, 0.6);
 }
 
 .addAnswerButton_d97f89:hover {
@@ -1258,7 +1258,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 }
 
 .pageBody__41ed7 {
-    /* channels & roles tab */
+    /* channels & roles tab (controlls popup stff) */
     margin-top: 10px;
     background: rgba(77, 77, 77, 0.8);
     border-radius: 10px;
