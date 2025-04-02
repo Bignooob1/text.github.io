@@ -6,7 +6,7 @@
 .theme-dark,
 .theme-light {
     /*Background*/
-    --background-image: var(--custom-image-url);text.github.io
+    --background-image: url('https://i.imgur.com/dQsGCwy.gif');text.github.io
     --app-blur: 8px;
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
     --button-background-static: var(--highlight);
